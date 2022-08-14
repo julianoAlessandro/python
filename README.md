@@ -1,3 +1,4 @@
 # Equação do 2 grau
-<h1>Equação 2 grau <h1><b><i>
+Projeto que tem o intuito de descobrir quantas raízes existem ou não em uma equação 
+do segundo grau
 
